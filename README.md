@@ -1,5 +1,26 @@
 <img src="https://raw.githubusercontent.com/zoff99/ToxCon2019/master/poster/logo_001.png" width="250">
 
+## The Event
+
+We had a lot of fun at this year's event. Sorry if you could not make it there in person.<br>
+If you are working on anything fun with Tox and you want to share it with the world, talk to us on
+[IRC](https://webchat.freenode.net/?channels=#toktok) or [Matrix](https://matrix.to/#/#freenode_#toktok:matrix.org).
+
+here are some impressions of the event:<br>
+
+<b>The organizers, seemingly working hard at organizing at "BALATEM", and all the devs and speakers enjoying the conference:</b><br>
+<img src="https://raw.githubusercontent.com/zoff99/ToxCon2019/master/images/orga06.png" width="400">&nbsp;<img src="https://raw.githubusercontent.com/zoff99/ToxCon2019/master/images/group05.png" width="400" align="top"><br>
+
+<b>well food was a "thing" aswell, can't have people be hungry and grumpy:</b><br>
+<img src="https://raw.githubusercontent.com/zoff99/ToxCon2019/master/images/dinner01.png" width="400">&nbsp;<img src="https://raw.githubusercontent.com/zoff99/ToxCon2019/master/images/brunch02.png" width="400"><br>
+
+<b>yes we made some t-shirts, again!:</b><br>
+<img src="https://raw.githubusercontent.com/zoff99/ToxCon2019/master/images/02shirts2.png" height="200"><br>
+
+here are some more [photos](https://github.com/zoff99/ToxCon2019/tree/master/images)
+<br>
+<h3>Thanks guys for attending and making the event super fun.</h3>
+
 ## Slides
 [Slides](https://github.com/zoff99/ToxCon2019/tree/master/slides)
 
@@ -28,7 +49,3 @@ https://metalab.at/wiki/Lage
 * Problems and issues in creating and keeping alive a stable collectivity of workers linked by e-Windows (Giulio Focardi)
 * Closing remarks (Zoff, strfry, Uli, robinli)
 
-
-## Photos
-
-<img src="https://raw.githubusercontent.com/zoff99/ToxCon2019/master/images/02shirts2.png" height="200"><br>
